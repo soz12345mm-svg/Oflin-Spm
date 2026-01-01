@@ -2,8 +2,8 @@ from instagrapi import Client
 import time
 
 # আপনার ইনস্টাগ্রাম ইউজারনেম এবং পাসওয়ার্ড
-USERNAME = 'your_username'
-PASSWORD = 'your_password'
+USERNAME = 'shudai_bot'
+PASSWORD = 'Pihu7866'
 
 cl = Client()
 cl.login(USERNAME, PASSWORD)
